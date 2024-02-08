@@ -1,0 +1,1 @@
+(1, 'Dima')(2, 'Vasya')(3, 'Igor')(4, 'Kirill')
